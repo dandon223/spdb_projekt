@@ -1,0 +1,2 @@
+data/gtfs/shapes.txt filter=lfs diff=lfs merge=lfs -text
+data/muni_il.shp filter=lfs diff=lfs merge=lfs -text
